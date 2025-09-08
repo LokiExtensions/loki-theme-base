@@ -1,5 +1,5 @@
 {
-  "name": "loki/magento2-base-theme",
+  "name": "loki/magento2-theme-base",
   "version": "0.0.1",
   "description": "Independent Magento 2 theme to remove all Luma JavaScript and add CSS via Fylgja",
   "type": "magento2-theme",
