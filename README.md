@@ -1,11 +1,11 @@
 # Loki/base theme
-**An independent Magento 2 theme to remove all Luma JavaScript and add CSS via [Fylgja](https://fylgja.dev/)**
+**An independent Magento 2 theme based on [Fylgja](https://fylgja.dev/)**
+
+**Experimental**
 
 ## Installation
 ```bash
-mkdir -p app/design/frontend/Loki/
-cd app/design/frontend/Loki/
-git clone git@github.com:LokiExtensions/loki-base-theme.git base
+composer require loki/magento2-theme-base:@dev
 ```
 
-Make sure to install and enable the [Loki_Theme](https://github.com/LokiExtensions/Loki_Theme) module as well.
+Make sure to carefully read the docs at [https://loki-extensions.com/docs/theme](https://loki-extensions.com/docs/theme)
