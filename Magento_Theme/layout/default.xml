@@ -2,13 +2,13 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:View/Layout:etc/page_configuration.xsd">
     <body>
         <referenceContainer name="before.body.end">
-            <block name="loki.css-properties" template="Magento_Theme::stylesheet/css-properties.phtml">
+            <referenceBlock name="loki.css-properties">
                 <arguments>
                     <argument name="css_properties" xsi:type="array">
                         <item name="message-demo-color" xsi:type="string">orange</item>
                     </argument>
                 </arguments>
-            </block>
+            </referenceBlock>
         </referenceContainer>
     </body>
 </page>
