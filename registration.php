@@ -5,7 +5,7 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::THEME,
-    'frontend/Loki/base',
+    'frontend/Loki/fylgja',
     __DIR__
 );
 
