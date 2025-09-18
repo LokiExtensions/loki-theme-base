@@ -1,7 +1,7 @@
 {
   "name": "loki-theme/magento2-theme-fylgja",
   "version": "0.0.1",
-  "description": "Independent Magento 2 theme to remove all Luma JavaScript and add CSS via Fylgja",
+  "description": "Fylgja CSS instance of Loki Theme",
   "type": "magento2-theme",
   "require": {
     "magento/framework": "^103.0"
